@@ -4,11 +4,7 @@
 
 ## 通用视频制作 Skill
 
-[video-production](skills/video-production/SKILL.md) 适合从选题、文稿或已有素材做一条完整视频，提供素材混剪、口播、代码动画和网页仿真四条路线，以及时间轴、横竖版、双语版与验收方法。
-
-下载本仓库后，把整个 `skills/video-production/` 目录交给能操作项目文件和运行命令的助手，或按助手支持的方式导入。目录里的 `references/` 提供分镜、渲染和验收细节。
-
-> 请使用 video-production，把我提供的素材和讲稿做成一条竖屏科普视频。先做一段有声样片，保留可编辑的镜头表。成片交付 MP4、中文字幕和封面。
+通用视频制作 Skill 已迁到独立仓库。[打开 video-production](https://github.com/songofhawk/video-production)
 
 ## 开始使用
 
